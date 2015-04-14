@@ -19,7 +19,7 @@
 			<li>1/2 cup Reese's Pieces</li>
 			<li>sprinkles for garnish (optional)</li>
 		</ul>
-		<h3>Instructions</h3>
+		<h2>Instructions</h2>
 		<p>
 			Grease a small baking sheet lightly. Scatter oreos, pretzels, Reese's Pieces and raisins across cookie sheet evenly.
 		</p>
