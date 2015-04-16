@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>Strange Festivals</title>
+</head>
+<body>	
+<h1 id="top">Strange Festivals</h1>
+<h2>Festivals by Month<h2>
+<p>Here are some of the strange festivals we will probably not be attending this year. Please contact us if you would like more information.</p>
+<ul>
+	<li>
+		<h2>January<h2>
+		<a href="http://www.froglegfestival.com">
+		<p>Frog Leg Festival</br>
+		Fellsmere, FL, USA</p></a>
+	</li>
+	<li>
+		<h2>February</h2>
+		<a href="http://www.santafenewmexican.com/LocalNews/Angel-Fire-Shovel-Racing-Revived">
+		<p>World Shovel Race Championships</br>
+		Angel Fire, NM, USA</p></a>
+	</li>
+	<li>
+		 <h2>March<h2>
+		<a href="http://www.crosswordtournament.com"><p>American Crossword Puzzle Tournament</br>
+		Stamford, CT, USA</p2></a>
+	<li>
+		<h2>April</h2>
+		<a href="http://www.wardmuseum.org">
+		<p>World Wildfowl Carving Championships</br>
+		Ocean City, MD, USA</p></a>
+	</li>
+	<li>
+		<h2>May</h2>
+		<a href="http://www.cheese-rolling.co.uk">
+		<p>Cheese Rolling</br>
+		Coopers Hill, England</p></a>
+	</li>
+	<li>
+		<h2>June</h2>
+		<a href="http://www.ducttapefestival.com">
+		<p>Duct Tape Festival</br>
+		Avon, Ohio, USA</p></a>
+	</li>
+	<li>
+		<h2>July</h2>
+		<a href="http://www.nolabulls.com"><p>San Fermin in Nueva Orleans</br>
+		New Orleans, LA, USA</p></a>
+	</li>
+	<li>
+		<h2>August</h2>
+		<a href="http://www.tomatina.es"><p>La Tomatina</br>
+		Bunol, Spain</p></a>
+	</li>
+	<li>
+		<h2>September</h2>
+		<a href="http://www.wiscowchip.com"><p>Wisconsin State Cow Chip Throw
+		Prairie du Sac, WI, USA</p></a>
+	</li>
+	<li>
+		<h2>October</h2>
+		<a href="http://www.woollyworm.com"><p>Wooly Worm Festival
+		Banner Elk, NC, USA</p></a>
+	</li>
+	<li>
+		<h2>November</h2>
+		<a href="http://www.punkinchunkin.com"><p>World Championship Punkin Chunkin
+		Bridgeville, DE, USA</p></a>
+	</li>
+	<li>
+		<h2>December</h2>
+		<a href="http://www.opportunityvillage.org/great-santa-run"><p>Las Vegas Great Santa Run
+		Las Vegas, NV, USA</p></a>
+	</li>	
+<p><a href="#top">About Strange Festivals</a></p>
+
+<p><a href="#top">Top of page</a></p>
+
+	</body>
+</html>
