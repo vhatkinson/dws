@@ -1,9 +1,10 @@
-#nav{
+/* the whole page's capsule*/
+#nav {
 	width: 600px;
 	height:auto;
 	margin: 0 auto;
 	border: 2px dashed #F27D52;
-	padding: 0 5px;
+	padding: 5px 5px;
 }
 header {
     width: 431px;
@@ -15,44 +16,45 @@ header {
     box-shadow:2px 2px 2px;
     box-sizing:content-box;
 }
-h, p{
-	font-family: 'Roboto Condensed', sans-serif;
-}
+/*for the aside and unordered lists*/
 nav ul li {
-	list-style-type: circle;
+	list-style-type: none;
 	text-align: center;
 	margin:0 3px;
 	display:inline-block;
 }
-aside{
+ul {
+	list-style-type: none;
+}
+aside {
 	font:small-caps bold 1em/140% "Roboto Condensed",sans-serif;
 }
+/*headers and paragraphs*/
 h1,h2,h3 {
 	color:#546C85;
 	background-color:#F27D52;
 	text-shadow:2px 2px 2px #A66249; 
 	text-align:center;
+	font-family: 'Roboto Condensed', sans-serif;
 }
 p {
 	color:#A66249;
 	text-align:center;
+	font-family: 'Roboto Condensed', sans-serif;
 }
-a.link{
- text-decoration:none;
+/*animations for the links*/
+a.link {
+	text-decoration:none;
 }
-a.visited{
+a.visited {
 	text-decoration:underline;
 	color:#60a
 }
-a.hover{
+a.hover {
 	text-decoration:underline;
 	color:#f00
 }
-a.active{
+a.active {
 	text-decoration:underline;
 	color:#1d5c00
-}
-
-ul {
-	list-style-type: none;
 }
