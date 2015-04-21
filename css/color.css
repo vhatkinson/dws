@@ -1,10 +1,10 @@
 #four{
 	background-color:#1f3b73;
-	text:white;
+	color:white;
 }
 #three{
 	background-color:#1c5936;
-	text:white;
+	color:white;
 }
 #two{
 	background-color:#f2b33d;
@@ -14,7 +14,4 @@
 }
 #zero{
 	background-color:#D96725;
-}
-#grades{
-	border:2px solid #1f3b73;
 }
