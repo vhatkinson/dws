@@ -22,34 +22,41 @@
 			<h2 id="sale"><em>top selling merchandise</em></h2>
 			<ul>	
 				<li><p>Oreo's<br/>
-					<img src="images/DSC_0017.jpg" alt="Oreo's"/></p>
+					<a href="images/DSC_0017.jpg"><img src="images/DSC_0017.jpg" alt="Oreo's"/></a></p>
 				</li>
 				<li><p>Chocolate Chip Cookies<br/>
-					<img src="images/DSC_0018.jpg" alt="Chocolate Chip Cookies"/></p>
+					<a href="images/DSC_0018.jpg">
+					<img src="images/DSC_0018.jpg" alt="Chocolate Chip Cookies"/></a></p>
 				</li>
 				<li><p>Pop Corn<br/>
-					<img src="images/DSC_0019.jpg" alt="Pop Corn"/></p>
+					<a href="images/DSC_0019.jpg">
+					<img src="images/DSC_0019.jpg" alt="Pop Corn"/></a></p>
 				</li>
 				<li><p>Chips and Dip<br/>
-					<img src="images/DSC_0014.jpg" alt="Chips and Dip"/></p>
+					<a href="images/DSC_0014.jpg">
+					<img src="images/DSC_0014.jpg" alt="Chips and Dip"/></a></p>
 				</li>
 				<li><p>Pie<br/>
-					<img src="images/DSC_0013.jpg" alt="Pie"/></p>
+					<a href="images/DSC_0013.jpg">
+					<img src="images/DSC_0013.jpg" alt="Pie"/></a></p>
 				</li>
 				<li><p>Cake<br/>
-					<img src="images/DSC_0010.jpg" alt="Cake"/></p> 
+					<a href="images/DSC_0010.jpg">
+					<img src="images/DSC_0010.jpg" alt="Cake"/></a></p> 
 				</li>
 				<li><p>brownies<br/>
-					<img src="images/DSC_0008.jpg" alt="brownies"/></p>
+					<a href="images/DSC_0008.jpg">
+					<img src="images/DSC_0008.jpg" alt="brownies"/></a></p>
 				</li>
 			</ul>
 			<p>All that... and soo much more!</p>
 		</article>
 		<aside>
 			<p>We pride ourselves in great snacks, great for the whole family.</p>
+			<p>You can find us on <a href="http://www.yelp.com/biz/snack-stop-markham">Yelp.</a></p>
 		</aside>
 		<footer>
-			<h4 id="addr">address</h4>
+			<h3 id="addr">address</h3>
 			<p>123 Fake RD.<br/>City, FL. 12345</p>
 			<p><a href="#snack">back to top</a></p>
 		</footer>
