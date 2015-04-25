@@ -50,6 +50,35 @@ h3{
 	width:600px;
 	margin:20px auto;
 }
+#gallery-content{
+	width:500px;
+	margin:20px auto;
+	overflow:auto;
+}
+.entry{
+	font:.7em;
+	width:220px;
+	height:220px;
+	float:left;
+	padding:5px;
+	background:url("../images/shadow.png") no-repeat bottom;
+}
+figure{
+	width:202px;
+	height:150px;
+	margin:0;
+	padding:9px;
+	background:#e7e3d8;
+}
+figure img{
+	width:200px;
+	height:150px;
+	border:1px solid #8c9c9e;
+}
+figcaption{
+	background:url("../images/icon.png") no-repeat;
+	padding:5px 0 0 25px;
+}
 /* link */
 a {
 	color: #000000;
