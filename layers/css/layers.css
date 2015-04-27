@@ -1,21 +1,38 @@
 /* the whole page's capsule*/
-body {
-	width: 600px;
+#nav {
+	width: 98%;
 	height:auto;
-	margin: 0 auto;
+	margin: 1%;
 	border: 2px dashed #F27D52;
-	padding: 5px 5px;
-	background:url("../images/dark-canvas.gif");
-	font-family: 'Roboto Condensed', sans-serif;
+	font-family: "Roboto Condensed",arial,sans-serif;
+	text-align:left;
+	overflow:auto;
 }
+/*main header and nav*/
 header {
-    width: 431px;
+    width: 50%;
     height:auto;
-    padding: 2px;
-    border:5px solid #A66249;
+    padding: 1%;
+    border:2px solid #A66249;
     margin: 0 auto;
     border-radius: 10px;
     box-shadow:2px 2px 2px;
+    box-sizing:content-box;
+}
+/*all paragraphs*/
+p {
+	color:#A66249;
+	text-align:center;
+}
+/*floats*/
+.food, .food2, .food3{
+	float:left;
+	width:29%;
+	padding:1%;
+	margin:1%;
+}
+aside,footer{
+	clear:both
 }
 /*for the aside and unordered lists*/
 nav ul li {
@@ -27,34 +44,32 @@ nav ul li {
 ul {
 	list-style-type: none;
 }
-aside {
+/*aside text*/
+aside p{
 	font:small-caps bold 1em/140%;
 }
 /*headers and paragraphs*/
 h1,h2,h3 {
 	color:#546C85;
-	background:#F27D52 linear-gradient(to bottom, #f6f8f9 0%,#d7dee3 25%,#f6f8f9 50%,#d7dee3 75%,#f5f7f9 100%)no-repeat;
+	background-color:#F27D52;
 	text-shadow:2px 2px 2px #A66249; 
 	text-align:center;
 }
-p {
-	color:#A66249;
-	text-align:center;
-}
+
 /*animations for the links*/
-a.link {
+a:link {
 	text-decoration:none;
 	color:#546C85;
 }
-a.visited {
+a:visited {
 	text-decoration:underline;
-	color:#60a
+	color:#000
 }
-a.hover {
+a:hover {
 	text-decoration:underline;
 	color:#f00
 }
-a.active {
+a:active {
 	text-decoration:underline;
 	color:#1d5c00
 }
