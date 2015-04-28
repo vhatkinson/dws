@@ -78,6 +78,23 @@ figure img{
 figcaption{
 	background:url("../images/icon.png") no-repeat;
 	padding:5px 0 0 25px;
+} 
+table, th, td{
+	border-collapse: collapse;
+	padding: 5px 30px 5px 10px;
+	font:.9em;
+	margin:0;
+	background:#e0e9f0;
+	border-top:1px solid #f1f8fe;
+	border-bottom:1px solid #cbd2d8;
+	border-right:1px solid #cbd2d8;
+	text-shadow:1px 1px 1px #fff;
+}
+table .even{
+	background-color:#e8eff5;
+}
+th {
+	text-align:left;
 }
 /* link */
 a {
