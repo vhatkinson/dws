@@ -72,7 +72,28 @@ h1,h2,h3 {
 figure{
 	color:#f6f8f9;
 }
-
+/*table styling*/
+table, th, td{
+	border-collapse: collapse;
+	padding: 5px 30px 5px 10px;
+	font:.9em;
+	margin:0;
+	background:#e0e9f0;
+	border-top:1px solid #f1f8fe;
+	border-bottom:1px solid #cbd2d8;
+	border-right:1px solid #cbd2d8;
+	text-shadow:1px 1px 1px #fff;
+	clear:both;
+}
+table .even{
+	background-color:#e8eff5;
+}
+th {
+	text-align:left;
+}
+td{
+	text-align:right;
+}
 /*animations for the links*/
 a:link {
 	text-decoration:none;
