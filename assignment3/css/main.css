@@ -85,15 +85,21 @@ table, th, td{
 	text-shadow:1px 1px 1px #fff;
 	clear:both;
 }
+/*table */
 table .even{
 	background-color:#e8eff5;
 }
 th {
 	text-align:left;
+	font:small-caps bold;
 }
 td{
 	text-align:right;
 }
+tr:hover{
+	background:#546C85;
+}
+/* this is all to style the form field*/
 #form{
 	width:350px;
 	margin:20px auto;
