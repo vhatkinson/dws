@@ -96,6 +96,47 @@ table .even{
 th {
 	text-align:left;
 }
+#contact_content{
+	width:350px;
+	margin:20px auto;
+}
+fieldset{
+	width:310px;
+	margin-top:20px;
+	border:1px solid #fff;
+}
+legend{
+	font:italic;
+	color:#666;
+}
+.title{
+	float:left;
+	width:150px;
+	clear:left;
+}
+input[type="text"]{
+	width:120px;
+	border: 1px solid #d6d6d6;
+	padding:2px;
+}
+input[type="text"]:hover, input[type="text"]:focus{
+	background:#d0e2f0;
+	border:1px solid #999;
+}
+#submit{
+	width:310px;
+	text-align:right;
+}
+input[type="submit"]{
+	border:1px solid #063;
+	background:#096;
+	color:#fff;
+	padding:5px;
+	margin-top:10px;
+}
+input[type="submit"]:hover{
+	background:#0c3;
+}
 /* link */
 a {
 	color: #000000;
